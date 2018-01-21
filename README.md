@@ -1,10 +1,12 @@
 # ourfolio1
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure app designed to ... 
+
+store KW records in a map an returns the requested data to stdout.
 
 ## Usage
 
-FIXME
+lein run help
 
 ## License
 
